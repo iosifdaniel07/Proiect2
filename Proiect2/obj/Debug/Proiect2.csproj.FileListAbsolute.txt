@@ -1,0 +1,15 @@
+D:\Teme\Inteligenta Artificiala\Proiect2\Proiect2\bin\Debug\Proiect2.exe.config
+D:\Teme\Inteligenta Artificiala\Proiect2\Proiect2\bin\Debug\Proiect2.exe
+D:\Teme\Inteligenta Artificiala\Proiect2\Proiect2\bin\Debug\Proiect2.pdb
+D:\Teme\Inteligenta Artificiala\Proiect2\Proiect2\obj\Debug\Proiect2.csproj.AssemblyReference.cache
+D:\Teme\Inteligenta Artificiala\Proiect2\Proiect2\obj\Debug\Proiect2.csproj.SuggestedBindingRedirects.cache
+D:\Teme\Inteligenta Artificiala\Proiect2\Proiect2\obj\Debug\Proiect2.Properties.Resources.resources
+D:\Teme\Inteligenta Artificiala\Proiect2\Proiect2\obj\Debug\Proiect2.csproj.GenerateResource.cache
+D:\Teme\Inteligenta Artificiala\Proiect2\Proiect2\obj\Debug\Proiect2.csproj.CoreCompileInputs.cache
+D:\Teme\Inteligenta Artificiala\Proiect2\Proiect2\obj\Debug\Proiect2.exe
+D:\Teme\Inteligenta Artificiala\Proiect2\Proiect2\obj\Debug\Proiect2.pdb
+D:\Teme\Inteligenta Artificiala\Proiect2\Proiect2\obj\Debug\Proiect2.NeuronalNetwork.resources
+D:\Teme\Inteligenta Artificiala\Proiect2\Proiect2\obj\Debug\Proiect2.NewNeuronalNetworkForm.resources
+D:\Teme\Inteligenta Artificiala\Proiect2\Proiect2\obj\Debug\Proiect2.HandleLayerForm.resources
+D:\Teme\Inteligenta Artificiala\Proiect2\Proiect2\obj\Debug\Proiect2.InitializeInput.resources
+D:\Teme\Inteligenta Artificiala\Proiect2\Proiect2\obj\Debug\Proiect2.DetailLayerForm.resources
